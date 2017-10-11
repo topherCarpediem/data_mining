@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME},
+
+    The users is ${NUM_USERS}
+    ${INFO_TEXT}
+
+Yours Truly
